@@ -2,8 +2,8 @@ using System.Buffers.Binary;
 using System.Net;
 using System.Net.Security;
 using System.Net.Sockets;
-using System.Security.Cryptography.X509Certificates;
 using System.Runtime.CompilerServices;
+using System.Security.Cryptography.X509Certificates;
 
 namespace MiniProjectTwo.Shared;
 

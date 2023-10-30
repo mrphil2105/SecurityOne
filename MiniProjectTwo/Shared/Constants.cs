@@ -4,6 +4,8 @@ namespace MiniProjectTwo.Shared;
 
 public static class Constants
 {
+    public const int Prime = 6551;
+
     public static IPAddress LocalAddress = IPAddress.Parse("127.0.0.1");
     public const int BasePort = 8888;
 
